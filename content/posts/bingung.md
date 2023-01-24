@@ -3,9 +3,9 @@ title: "Masih Tetap Bingung dengan Theme Hugo"
 date: 2023-01-23T18:58:37+07:00
 description: "Setiap Theme Punya Settingan Sendiri"
 tags: ["hugo","static-site"]
-featured_image: "https://res.cloudinary.com/bejowo/image/upload/v1674477907/imgs/bingung.jpg"
+featured_image: "https://assets-bejowo.netlify.app/v1674477907/imgs/bingung.jpg"
 # images is optional, but needed for showing Twitter Card
-images: ["https://res.cloudinary.com/bejowo/image/upload/v1674477907/imgs/bingung.jpg"]
+images: ["https://assets-bejowo.netlify.app/v1674477907/imgs/bingung.jpg"]
 categories: "blogging"
 ---
 
@@ -27,8 +27,8 @@ Ini yang kadang membuat rasa malas untuk membuat blog baru.
 
 Walaupun kadang tampilan dari theme tersebut sederhana, settingannya belum tentu sederhana seperti tampilannya.
 
-Tapi bagaimanapun, jika sudah tersetting semunanya proses update blog cuma sekedar git add, commit dan push.
+Tapi bagaimanapun, jika sudah tersetting semuanya proses update blog cuma sekedar git add, commit dan push.
 
-Jadi, kesimpulannya? Masih ingikah untuk membuat blog hugo lagi?
+Jadi, kesimpulannya? Masih inginkah untuk membuat blog hugo lagi?
 
 Tentunya masih ingin, tapi beberapa static site generator seperti 11ty dan zola sudah terinstall di PC kesayangan. Tinggal jadwal buat ngopreknya aja.
